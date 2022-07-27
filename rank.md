@@ -2,4 +2,4 @@
 
 如下图所示
 
-![](https://zhangrb-image.oss-cn-beijing.aliyuncs.com/assets/20220727232253.png?x-oss-process=image/resize,w_300,h_300/)
+![](https://processon.com/chart_image/62e1534a637689072eedf435.png)
