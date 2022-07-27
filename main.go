@@ -6,8 +6,6 @@ import (
 )
 
 func main() {
-	v := rand13rand5()
-	fmt.Println(v)
 	Perm([]rune("AAC"), func(a []rune) {
 		fmt.Println(string(a))
 	})
